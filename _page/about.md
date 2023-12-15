@@ -1,3 +1,13 @@
+---
+permalink: /
+title: <center>XXX</center>
+excerpt: "About"
+sitemap: false
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Sponsors
 ------
